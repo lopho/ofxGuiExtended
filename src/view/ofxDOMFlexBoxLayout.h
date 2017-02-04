@@ -2,7 +2,7 @@
 
 #include "../DOM/Layout.h"
 #include "ofParameter.h"
-#include "Element.h"
+#include "../DOM/Element.h"
 
 class ofxDOMFlexBoxLayout: public DOM::_Layout<ofxDOMFlexBoxLayout>
 {

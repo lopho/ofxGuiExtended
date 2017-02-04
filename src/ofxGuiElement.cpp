@@ -8,7 +8,7 @@
 #include "ofXml.h"
 #endif
 
-#include "JsonConfigParser.h"
+#include "view/JsonConfigParser.h"
 
 using namespace std;
 
